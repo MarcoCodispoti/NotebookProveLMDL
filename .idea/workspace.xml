@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25c58b06-1318-4a47-ac0c-a14aac4f04f8" name="Changes" comment="Introduzione dei Notebook Nearest Neighbor e KNN.ipynb ed Support Vector Machine.ipynb, completamento del notebook Naive Bayes.ipynb">
-      <change afterPath="$PROJECT_DIR$/Decision Tree.ipynb" afterDir="false" />
+    <list default="true" id="25c58b06-1318-4a47-ac0c-a14aac4f04f8" name="Changes" comment="Introduzione del notebook Decision Tree.ipynb,">
+      <change afterPath="$PROJECT_DIR$/Random Forest.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Naive Bayes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Naive Bayes.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Support Vector Machine.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Support Vector Machine.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decision Tree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Decision Tree.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="Jupyter Notebook" />
       </list>
     </option>
@@ -48,6 +48,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.dsfdf.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
@@ -100,12 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1778581513653</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Introduzione del notebook Decision Tree.ipynb,">
+      <option name="closed" value="true" />
+      <created>1778668067156</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1778668067156</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creazione directory e introduzione Notebook Naive Bayes" />
     <MESSAGE value="Introduzione dei Notebook Nearest Neighbor e KNN.ipynb ed Support Vector Machine.ipynb, completamento del notebook Naive Bayes.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Introduzione dei Notebook Nearest Neighbor e KNN.ipynb ed Support Vector Machine.ipynb, completamento del notebook Naive Bayes.ipynb" />
+    <MESSAGE value="Introduzione del notebook Decision Tree.ipynb," />
+    <option name="LAST_COMMIT_MESSAGE" value="Introduzione del notebook Decision Tree.ipynb," />
   </component>
 </project>
