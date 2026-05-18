@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25c58b06-1318-4a47-ac0c-a14aac4f04f8" name="Changes" comment="Introduzione del notebook Decision Tree.ipynb,">
-      <change afterPath="$PROJECT_DIR$/Random Forest.ipynb" afterDir="false" />
+    <list default="true" id="25c58b06-1318-4a47-ac0c-a14aac4f04f8" name="Changes" comment="Introduzione del notebook Random Forest.ipynb,">
+      <change afterPath="$PROJECT_DIR$/Linear Regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logistic Regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiple Linear Regression.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decision Tree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Decision Tree.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,13 +110,22 @@
       <option name="project" value="LOCAL" />
       <updated>1778668067156</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Introduzione del notebook Random Forest.ipynb,">
+      <option name="closed" value="true" />
+      <created>1778769709064</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1778769709064</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creazione directory e introduzione Notebook Naive Bayes" />
     <MESSAGE value="Introduzione dei Notebook Nearest Neighbor e KNN.ipynb ed Support Vector Machine.ipynb, completamento del notebook Naive Bayes.ipynb" />
     <MESSAGE value="Introduzione del notebook Decision Tree.ipynb," />
-    <option name="LAST_COMMIT_MESSAGE" value="Introduzione del notebook Decision Tree.ipynb," />
+    <MESSAGE value="Introduzione del notebook Random Forest.ipynb," />
+    <option name="LAST_COMMIT_MESSAGE" value="Introduzione del notebook Random Forest.ipynb," />
   </component>
 </project>
