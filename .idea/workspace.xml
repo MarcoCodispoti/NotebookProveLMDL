@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25c58b06-1318-4a47-ac0c-a14aac4f04f8" name="Changes" comment="Introduzione del notebook Linear Regression.ipynb, Logistic Regression.ipynb e Multiple Linear Regression.ipynb">
-      <change afterPath="$PROJECT_DIR$/Ridge and Lasso Regression.ipynb" afterDir="false" />
+    <list default="true" id="25c58b06-1318-4a47-ac0c-a14aac4f04f8" name="Changes" comment="Modifica Logistic Regression.ipynb e workspace.xml">
+      <change afterPath="$PROJECT_DIR$/Hierarchical Clustering.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/K Means.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree Based Regression.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistic Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Logistic Regression.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,15 +46,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.dsfdf.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.dsfdf.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "jupyter.general.settings"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -125,7 +127,23 @@
       <option name="project" value="LOCAL" />
       <updated>1779099459386</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Aggiunta Ridge and Lasso Regression.ipynb,">
+      <option name="closed" value="true" />
+      <created>1779199811967</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1779199811967</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Modifica Logistic Regression.ipynb e workspace.xml">
+      <option name="closed" value="true" />
+      <created>1779199839853</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1779199839853</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,6 +152,8 @@
     <MESSAGE value="Introduzione del notebook Decision Tree.ipynb," />
     <MESSAGE value="Introduzione del notebook Random Forest.ipynb," />
     <MESSAGE value="Introduzione del notebook Linear Regression.ipynb, Logistic Regression.ipynb e Multiple Linear Regression.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Introduzione del notebook Linear Regression.ipynb, Logistic Regression.ipynb e Multiple Linear Regression.ipynb" />
+    <MESSAGE value="Aggiunta Ridge and Lasso Regression.ipynb," />
+    <MESSAGE value="Modifica Logistic Regression.ipynb e workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modifica Logistic Regression.ipynb e workspace.xml" />
   </component>
 </project>
