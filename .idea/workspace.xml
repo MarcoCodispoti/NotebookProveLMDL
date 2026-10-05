@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25c58b06-1318-4a47-ac0c-a14aac4f04f8" name="Changes" comment="Modifica Logistic Regression.ipynb e workspace.xml">
-      <change afterPath="$PROJECT_DIR$/Hierarchical Clustering.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/K Means.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree Based Regression.ipynb" afterDir="false" />
+    <list default="true" id="25c58b06-1318-4a47-ac0c-a14aac4f04f8" name="Changes" comment="Aggiunta TSNE.ipynb">
+      <change afterPath="$PROJECT_DIR$/Multilayer Perceptron.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +49,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.dsfdf.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "jupyter.general.settings"
@@ -143,7 +142,71 @@
       <option name="project" value="LOCAL" />
       <updated>1779199839853</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Aggiunta Hierarchical Clustering.ipynb">
+      <option name="closed" value="true" />
+      <created>1779649334706</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1779649334706</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Aggiunta K Means.ipynb">
+      <option name="closed" value="true" />
+      <created>1779649367366</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1779649367366</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Aggiunta Tree Based Regression.ipynb">
+      <option name="closed" value="true" />
+      <created>1779649389961</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1779649389961</updated>
+    </task>
+    <task id="LOCAL-00013" summary="modifica workspace.xml">
+      <option name="closed" value="true" />
+      <created>1779649404344</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1779649404344</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Aggiunta Principal Content Analysis.ipynb">
+      <option name="closed" value="true" />
+      <created>1779655195510</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1779655195510</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Aggiunta DBSCAN.ipynb">
+      <option name="closed" value="true" />
+      <created>1779724549601</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1779724549601</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Aggiunta Percettron.ipynb">
+      <option name="closed" value="true" />
+      <created>1779812598043</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1779812598044</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Aggiunta TSNE.ipynb">
+      <option name="closed" value="true" />
+      <created>1779812612401</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1779812612401</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,6 +217,14 @@
     <MESSAGE value="Introduzione del notebook Linear Regression.ipynb, Logistic Regression.ipynb e Multiple Linear Regression.ipynb" />
     <MESSAGE value="Aggiunta Ridge and Lasso Regression.ipynb," />
     <MESSAGE value="Modifica Logistic Regression.ipynb e workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modifica Logistic Regression.ipynb e workspace.xml" />
+    <MESSAGE value="Aggiunta Hierarchical Clustering.ipynb" />
+    <MESSAGE value="Aggiunta K Means.ipynb" />
+    <MESSAGE value="Aggiunta Tree Based Regression.ipynb" />
+    <MESSAGE value="modifica workspace.xml" />
+    <MESSAGE value="Aggiunta Principal Content Analysis.ipynb" />
+    <MESSAGE value="Aggiunta DBSCAN.ipynb" />
+    <MESSAGE value="Aggiunta Percettron.ipynb" />
+    <MESSAGE value="Aggiunta TSNE.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aggiunta TSNE.ipynb" />
   </component>
 </project>
