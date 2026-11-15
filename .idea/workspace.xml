@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25c58b06-1318-4a47-ac0c-a14aac4f04f8" name="Changes" comment="workspace update">
-      <change afterPath="$PROJECT_DIR$/Convolutional Neural Networks.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recurrent Neural Network.ipynb" afterDir="false" />
+    <list default="true" id="25c58b06-1318-4a47-ac0c-a14aac4f04f8" name="Changes" comment="workspace.xml">
+      <change afterPath="$PROJECT_DIR$/Advanced Recurrent Networks.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Attention Mechanism.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification and Regression Neural Networks.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DNN Optimization.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fine Tuning Prompt Engineering.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generative Deep Learning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction to Transformers.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -223,7 +228,31 @@
       <option name="project" value="LOCAL" />
       <updated>1791220162130</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Aggiunta Convolutional Neural Networks.ipynb">
+      <option name="closed" value="true" />
+      <created>1791464942992</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1791464942992</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Aggiunta Recurrent Neural Network.ipynb">
+      <option name="closed" value="true" />
+      <created>1791464960235</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1791464960235</updated>
+    </task>
+    <task id="LOCAL-00022" summary="workspace.xml">
+      <option name="closed" value="true" />
+      <created>1791464977327</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1791464977327</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -244,6 +273,9 @@
     <MESSAGE value="Aggiunta TSNE.ipynb" />
     <MESSAGE value="Aggiunta Multilayer Perceptron.ipynb" />
     <MESSAGE value="workspace update" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace update" />
+    <MESSAGE value="Aggiunta Convolutional Neural Networks.ipynb" />
+    <MESSAGE value="Aggiunta Recurrent Neural Network.ipynb" />
+    <MESSAGE value="workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
   </component>
 </project>
