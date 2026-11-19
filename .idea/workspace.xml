@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25c58b06-1318-4a47-ac0c-a14aac4f04f8" name="Changes" comment="workspace.xml">
-      <change afterPath="$PROJECT_DIR$/Advanced Recurrent Networks.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Attention Mechanism.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification and Regression Neural Networks.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DNN Optimization.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fine Tuning Prompt Engineering.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generative Deep Learning.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction to Transformers.ipynb" afterDir="false" />
+    <list default="true" id="25c58b06-1318-4a47-ac0c-a14aac4f04f8" name="Changes" comment="Aggiunta nuovi notebook">
+      <change afterPath="$PROJECT_DIR$/Introduction to explainability.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Post-hoc methods for classic models.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fine Tuning Prompt Engineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Fine Tuning Prompt Engineering.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791464977327</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Aggiunta nuovi notebook">
+      <option name="closed" value="true" />
+      <created>1794752682448</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1794752682448</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -276,6 +280,7 @@
     <MESSAGE value="Aggiunta Convolutional Neural Networks.ipynb" />
     <MESSAGE value="Aggiunta Recurrent Neural Network.ipynb" />
     <MESSAGE value="workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
+    <MESSAGE value="Aggiunta nuovi notebook" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aggiunta nuovi notebook" />
   </component>
 </project>
